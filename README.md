@@ -1,5 +1,7 @@
 # GameHub Lite Project
 
+# Note: This project has been taken over by the EmuReady dev Producdevity https://github.com/Producdevity/gamehub-lite
+
 Complete privacy-focused modification of the GameHub Android app. This project removes all tracking, authentication, and bloat while adding an automated patcher for future updates.
 
 ---
